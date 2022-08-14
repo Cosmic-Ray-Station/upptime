@@ -12,7 +12,7 @@ sites:
  
 status-website:
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/84285664?s=96&v=4
   name: CRM Uptime Monitor
   introTitle: "Cosmic Ray Station Oulu - Uptime monitor"
   introMessage: Uptime tracker and history of downtimes for the Cosmic Ray Station Oulu web server.
