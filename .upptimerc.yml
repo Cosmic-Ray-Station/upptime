@@ -11,17 +11,16 @@ sites:
     url: https://cosmicrays.oulu.fi/webform/onlinequery.cgi?station=DOMC&startday=17&startmonth=02&startyear=2022&starttime=00%3A00&endday=17&endmonth=07&endyear=2022&endtime=00%3A00&resolution=Automatic+choice&outputmode=default
  
 status-website:
-
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "Uptime monitor for the Cosmic Ray Station Oulu website"
-  introMessage: Uptime tracker and history of downtimes for the Cosmic Ray Station Oulu, powered by Upptime project.
+  name: CRM Uptime Monitor
+  introTitle: "Cosmic Ray Station Oulu - Uptime monitor"
+  introMessage: Uptime tracker and history of downtimes for the Cosmic Ray Station Oulu web server.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Cosmic Ray Station
+      href: https://cosmicrays.oulu.fi
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
