@@ -5,10 +5,19 @@ repo: upptime # The name of this repository
 sites:
   - name: Cosmicrays.oulu.fi
     url: https://cosmicrays.oulu.fi
+    expectedStatusCodes:
+      - 200
+    __dangerous__insecure: true  
   - name: Gle.oulu.fi
     url: https://gle.oulu.fi
+    expectedStatusCodes:
+      - 200
+    __dangerous__insecure: true  
   - name: Cosmicrays Data Request
     url: https://cosmicrays.oulu.fi/webform/onlinequery.cgi?station=DOMC&startday=17&startmonth=02&startyear=2022&starttime=00%3A00&endday=17&endmonth=07&endyear=2022&endtime=00%3A00&resolution=Automatic+choice&outputmode=default
+    expectedStatusCodes:
+      - 200
+    __dangerous__insecure: true  
  
 status-website:
   baseUrl: /upptime
