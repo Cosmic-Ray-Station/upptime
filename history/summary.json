@@ -4,19 +4,19 @@
     "url": "https://cosmicrays.oulu.fi",
     "icon": "https://favicons.githubusercontent.com/cosmicrays.oulu.fi",
     "slug": "cosmicrays-oulu-fi",
-    "status": "down",
-    "uptime": "98.46%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "98.46%",
-    "time": 765,
-    "timeDay": 765,
-    "timeWeek": 765,
-    "timeMonth": 765,
-    "timeYear": 765,
+    "status": "up",
+    "uptime": "98.04%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.04%",
+    "time": 789,
+    "timeDay": 789,
+    "timeWeek": 789,
+    "timeMonth": 789,
+    "timeYear": 789,
     "dailyMinutesDown": {
-      "2022-08-14": 4
+      "2022-08-14": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://gle.oulu.fi",
     "icon": "https://favicons.githubusercontent.com/gle.oulu.fi",
     "slug": "gle-oulu-fi",
-    "status": "down",
-    "uptime": "98.48%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.48%",
-    "time": 846,
-    "timeDay": 846,
-    "timeWeek": 846,
-    "timeMonth": 846,
-    "timeYear": 846,
+    "status": "up",
+    "uptime": "98.04%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.04%",
+    "time": 917,
+    "timeDay": 917,
+    "timeWeek": 917,
+    "timeMonth": 917,
+    "timeYear": 917,
     "dailyMinutesDown": {
-      "2022-08-14": 4
+      "2022-08-14": 5
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://cosmicrays.oulu.fi/webform/onlinequery.cgi?station=DOMC&startday=17&startmonth=02&startyear=2022&starttime=00%3A00&endday=17&endmonth=07&endyear=2022&endtime=00%3A00&resolution=Automatic+choice&outputmode=default",
     "icon": "https://favicons.githubusercontent.com/cosmicrays.oulu.fi",
     "slug": "cosmicrays-data-request",
-    "status": "down",
-    "uptime": "98.50%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "98.50%",
-    "time": 454,
-    "timeDay": 454,
-    "timeWeek": 454,
-    "timeMonth": 454,
-    "timeYear": 454,
+    "status": "up",
+    "uptime": "98.04%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.04%",
+    "time": 508,
+    "timeDay": 508,
+    "timeWeek": 508,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {
-      "2022-08-14": 4
+      "2022-08-14": 5
     }
   }
 ]
