@@ -4,10 +4,10 @@
     "url": "https://cosmicrays.oulu.fi",
     "icon": "https://favicons.githubusercontent.com/cosmicrays.oulu.fi",
     "slug": "cosmicrays-oulu-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 823,
@@ -16,6 +16,7 @@
     "timeMonth": 823,
     "timeYear": 823,
     "dailyMinutesDown": {
+      "2022-08-24": 1,
       "2022-08-17": 13
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://gle.oulu.fi",
     "icon": "https://favicons.githubusercontent.com/gle.oulu.fi",
     "slug": "gle-oulu-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 947,
@@ -36,6 +37,7 @@
     "timeMonth": 947,
     "timeYear": 947,
     "dailyMinutesDown": {
+      "2022-08-24": 1,
       "2022-08-17": 13
     }
   },
@@ -44,18 +46,19 @@
     "url": "https://cosmicrays.oulu.fi/webform/onlinequery.cgi?station=DOMC&startday=17&startmonth=02&startyear=2022&starttime=00%3A00&endday=17&endmonth=07&endyear=2022&endtime=00%3A00&resolution=Automatic+choice&outputmode=default",
     "icon": "https://favicons.githubusercontent.com/cosmicrays.oulu.fi",
     "slug": "cosmicrays-data-request",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 437,
     "timeDay": 379,
     "timeWeek": 396,
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
+      "2022-08-24": 0,
       "2022-08-17": 13
     }
   }
