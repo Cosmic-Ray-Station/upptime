@@ -18,6 +18,11 @@ sites:
     expectedStatusCodes:
       - 200
     __dangerous__insecure: true  
+  - name: Cosmicrays Data API
+    url: https://cosmicrays.oulu.fi/api/nmdata
+    expectedStatusCodes:
+      - 200
+    __dangerous__insecure: true  
  
 status-website:
   baseUrl: /upptime
