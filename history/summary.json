@@ -65,5 +65,23 @@
       "2022-08-24": 35,
       "2022-08-17": 13
     }
+  },
+  {
+    "name": "Cosmicrays Data API",
+    "url": "https://cosmicrays.oulu.fi/api/nmdata",
+    "icon": "https://favicons.githubusercontent.com/cosmicrays.oulu.fi",
+    "slug": "cosmicrays-data-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 131,
+    "timeDay": 131,
+    "timeWeek": 131,
+    "timeMonth": 131,
+    "timeYear": 131,
+    "dailyMinutesDown": {}
   }
 ]
