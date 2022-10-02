@@ -20,6 +20,9 @@ sites:
     __dangerous__insecure: true  
   - name: Cosmicrays Data API
     url: https://cosmicrays.oulu.fi/api/nmdata
+    headers:
+      - "apikey: yK9gqR1SXn2FFoyRHoJZ"
+      - "secret: sTFD1pHARWf9FM177vyfz4MBbNaM0U3ej0XwQech"
     expectedStatusCodes:
       - 200
     __dangerous__insecure: true  
