@@ -1,7 +1,7 @@
 url: https://cosmicrays.oulu.fi/webform/onlinequery.cgi?station=DOMC&startday=17&startmonth=02&startyear=2022&starttime=00%3A00&endday=17&endmonth=07&endyear=2022&endtime=00%3A00&resolution=Automatic+choice&outputmode=default
 status: up
 code: 200
-responseTime: 291
-lastUpdated: 2022-12-29T23:12:06.991Z
+responseTime: 356
+lastUpdated: 2022-12-30T23:10:44.852Z
 startTime: Sun Aug 14 2022 11:52:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
