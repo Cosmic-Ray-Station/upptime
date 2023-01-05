@@ -71,9 +71,9 @@
     "url": "https://cosmicrays.oulu.fi/api/nmdata",
     "icon": "https://favicons.githubusercontent.com/cosmicrays.oulu.fi",
     "slug": "cosmicrays-data-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -83,6 +83,7 @@
     "timeMonth": 152,
     "timeYear": 160,
     "dailyMinutesDown": {
+      "2023-01-05": 0,
       "2022-11-08": 29,
       "2022-10-03": 15,
       "2022-10-02": 25
